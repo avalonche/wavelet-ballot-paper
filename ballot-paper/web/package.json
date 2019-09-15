@@ -1,0 +1,50 @@
+{
+  "name": "ballot-paper",
+  "homepage": "https://avalonche.github.io/ballot-paper",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@rebass/forms": "^4.0.5",
+    "@rebass/grid": "^6.0.0",
+    "@typescript-eslint/parser": "^1.13.0",
+    "gh-pages": "^2.0.1",
+    "jsbi": "^2.0.5",
+    "package.json": "^2.0.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-dropdown-select": "^3.3.4",
+    "react-scripts": "3.0.1",
+    "rebass": "^4.0.5",
+    "sp-pnp-js": "^3.0.10",
+    "styled-components": "^4.3.2",
+    "wavelet-client": "^1.1.0",
+    "wavelet-faucet": "^0.2.1"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.6.0",
+    "typescript": "^3.6.2"
+  }
+}
