@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wavelet-ballot-paper/static/css/main.409c6b00.chunk.css",
+    "main.js": "/wavelet-ballot-paper/static/js/main.37da8fd6.chunk.js",
+    "main.js.map": "/wavelet-ballot-paper/static/js/main.37da8fd6.chunk.js.map",
+    "runtime~main.js": "/wavelet-ballot-paper/static/js/runtime~main.51600670.js",
+    "runtime~main.js.map": "/wavelet-ballot-paper/static/js/runtime~main.51600670.js.map",
+    "static/js/2.25bda879.chunk.js": "/wavelet-ballot-paper/static/js/2.25bda879.chunk.js",
+    "static/js/2.25bda879.chunk.js.map": "/wavelet-ballot-paper/static/js/2.25bda879.chunk.js.map",
+    "index.html": "/wavelet-ballot-paper/index.html",
+    "precache-manifest.5cfc5c3e18107d968ba68f94884a5d56.js": "/wavelet-ballot-paper/precache-manifest.5cfc5c3e18107d968ba68f94884a5d56.js",
+    "service-worker.js": "/wavelet-ballot-paper/service-worker.js",
+    "static/css/main.409c6b00.chunk.css.map": "/wavelet-ballot-paper/static/css/main.409c6b00.chunk.css.map"
+  }
+}
