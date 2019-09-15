@@ -1,7 +1,7 @@
 [package]
 name = "vote"
 version = "0.1.0"
-authors = ["sliu7190 <sliu7190@uni.sydney.edu.au>"]
+authors = [""]
 edition = "2018"
 
 [profile.release]
